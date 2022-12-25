@@ -1,0 +1,16 @@
+## Probleme 01: LINUX
+DESKTOP :
+C:\Users\Amine\Desktop
+
+SOURCE :
+C:\Users\Amine\Desktop\a\Sharing-is-caring.txt
+
+
+DESTINATION :
+
+C:\Users\Amine\Desktop\tmp\ITC
+
+
+COMMANDE POUR Déplacer LE FICHIER :
+
+move C:\Users\Amine\Desktop\a\Sharing-is-caring.txt C:\Users\Amine\Desktop\tmp\ITC
